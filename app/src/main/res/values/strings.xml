@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="snake1">Sanca kembang</string>
+    <string name="snake2">Anakonda</string>
+    <string name="snake3">Mamba</string>
+    <string name="snake4">Ular derik</string>
+    <string name="snake5">Ular kobra</string>
+    <string name="snake6">Beludak</string>
+    <string name="snake7">Ular jali (sawah)</string>
+    <string name="snake8">Ular Laut</string>
+    <string name="snake9">Ular Kadut</string>
+    <string name="snake10">Ular boa</string>
+</resources>
